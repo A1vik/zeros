@@ -20,7 +20,8 @@
     "node": "<=10"
   },
   "devDependencies": {
-    "mocha": "^3.2.0"
+    "mocha": "^3.2.0",
+    "node": "^10.16.3"
   },
   "homepage": "https://github.com/yankouskia/additional_6#readme",
   "dependencies": {
